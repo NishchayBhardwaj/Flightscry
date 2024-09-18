@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+    <string name="flight_number">Flight Number: XY123</string>
+    <string name="departure_info">Departure: JFK 12:30</string>
+    <string name="arrival_info">Arrival: LAX 15:45</string>
+</resources>
